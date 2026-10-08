@@ -44,3 +44,4 @@ The terminal looked scary at first, but now it saves me a lot of time:
 *   **VS Code Integration:** I mostly use the integrated terminal in VS Code (Ctrl + `). It means I can code and run git commands in the same window.
 
 Mastering these basic commands has made me more confident in handling projects and working as a team.
+
