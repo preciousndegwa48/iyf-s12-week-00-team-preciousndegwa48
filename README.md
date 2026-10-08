@@ -4,7 +4,7 @@ This is our mini knowledge base for Week 00. We are learning Git & GitHub team w
 This rehearses the workflow for Week 3 and Weeks 8-12 team project.
 
 ## Introduction
-Welcome to our team knowledge base.
+Welcome to our team knowledge base-updated by Precious Ndegwa.
 
 ## Precious Ndegwa - VS Code Tools
 I use **VS Code** as my main code editor because it is lightweight and powerful.
