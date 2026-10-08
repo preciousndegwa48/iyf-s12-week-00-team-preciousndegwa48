@@ -1,12 +1,14 @@
 # Team Precious Ndegwa & Purity Wanjiku - Week 00 Collaboration
 
-This is our mini knowledge base for Week 00. We are learning Git & GitHub team workflow.
+This is our mini knowledge base for Week 00.
+We are learning Git & GitHub team workflow.
 This rehearses the workflow for Week 3 and Weeks 8-12 team project.
 
 ## Introduction
-Welcome to our team knowledge base-updated by Precious Ndegwa.
+Welcome to our team knowledge base - Updated by Precious and Purity together.
 
 ## Precious Ndegwa - VS Code Tools
+
 I use **VS Code** as my main code editor because it is lightweight and powerful.
 
 My top 3 tools and shortcuts are:
@@ -18,7 +20,7 @@ Another useful shortcut I learned is `Ctrl + D` to select multiple occurrences o
 
 For more tips, I refer to the official [VS Code Documentation](https://code.visualstudio.com/docs).
 
-## Purity Wanjiku - Git & Terminal Tip
+## Purity Wanjiku - Git & Terminal Tips
 
 In this project, I focused on Git and Terminal workflows that make collaboration easier and faster.
 
