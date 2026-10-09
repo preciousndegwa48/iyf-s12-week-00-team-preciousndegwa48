@@ -1,4 +1,4 @@
-# Team Precious Ndegwa & Purity Wanjiku - Week 00 Collaboration
+# Team Precious Ndegwa,Purity Wanjiku and Kelvin- Week 00 Collaboration
 
 This is our mini knowledge base for Week 00.
 We are learning Git & GitHub team workflow.
@@ -44,4 +44,7 @@ The terminal looked scary at first, but now it saves me a lot of time:
 *   **VS Code Integration:** I mostly use the integrated terminal in VS Code (Ctrl + `). It means I can code and run git commands in the same window.
 
 Mastering these basic commands has made me more confident in handling projects and working as a team.
+
+## Kelvin - GitHub Features & Shortcuts
+[Kelvin will fill this section]
 
