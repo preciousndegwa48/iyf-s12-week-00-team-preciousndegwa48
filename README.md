@@ -46,5 +46,32 @@ The terminal looked scary at first, but now it saves me a lot of time:
 Mastering these basic commands has made me more confident in handling projects and working as a team.
 
 ## Kelvin - GitHub Features & Shortcuts
-[Kelvin will fill this section]
+## Kelvin - GitHub Features \& Shortcuts
+
+### 1\. Useful GitHub Features
+
+GitHub helps me store code, track changes, and collaborate with other developers.
+
+- **Repositories:** I use repositories to organize and store my projects.
+- **Branches:** I create branches to work on new features without affecting the main branch.
+- **Pull Requests:** I use pull requests to propose changes and allow teammates to review my code before merging.
+- **Issues:** I can use issues to report bugs, discuss problems, and track tasks.
+- **Markdown:** I use Markdown to format README files with headings, lists, links, and code examples.
+
+### 2\. GitHub and Git Shortcuts
+
+These commands help me work more efficiently when managing projects:
+
+- **`git status`** — Checks which files have changed.
+- **`git add .`** — Stages changes for the next commit.
+- **`git commit -m "message"`** — Saves staged changes with a descriptive message.
+- **`git pull origin main`** — Downloads and integrates updates from the main branch.
+- **`git push origin branch-name`** — Uploads my branch to GitHub.
+- **`git log --oneline`** — Displays a short history of commits.
+
+### 3\. My Collaboration Workflow
+
+When contributing to a team project, I first pull the latest changes, create my own branch, and make the required updates. I then commit and push my changes before opening a pull request. Finally, I ask a teammate to review my work and merge it after approval.
+
+Learning these GitHub features and commands helps me collaborate effectively, organize my code, and become a better developer.
 
